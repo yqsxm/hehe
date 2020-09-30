@@ -10,7 +10,7 @@ cat << EOF >/etc/config.json
         "decryption": "none",
         "clients": [
           {
-            "id": "${UUID:=c95ef1d4-f3ac-4586-96e9-234a37dda068}"
+            "id": "${UUID:=62f743fc-7089-4dd3-8b4b-71bf3d91ee00}"
           }
         ]
       },
